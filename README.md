@@ -5,15 +5,15 @@ Available Sites
 
 Here are some of the best sites to watch free movies and TV shows:
 
-    Crackle
-    Popcornflix
-    Vudu
-    Tubi
-    Pluto TV
-    IMDb TV
-    Kanopy
-    Hoopla
-    Plex
+    Crackle: https://www.crackle.com/
+    Popcornflix: https://www.popcornflix.com/
+    Vudu: https://www.vudu.com/
+    Tubi: https://tubitv.com/
+    Pluto TV: https://pluto.tv/
+    IMDb TV: https://www.imdb.com/tv/
+    Kanopy: https://www.kanopy.com/
+    Hoopla: https://www.hoopladigital.com/
+    Plex: https://www.plex.tv/
 
 Usage Notes
 
